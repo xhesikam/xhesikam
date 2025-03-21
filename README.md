@@ -1,6 +1,6 @@
 ## Hi there, I'm Xhes 👋
 
-
+I am passionate about coding.
 
 My coding skills: 
 
