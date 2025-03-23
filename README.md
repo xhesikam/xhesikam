@@ -4,7 +4,7 @@ I am passionate about coding.
 
 My coding skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,go,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,html,css,postgres)](https://skillicons.dev)
 
 Connect with me:
 
