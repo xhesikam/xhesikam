@@ -4,7 +4,7 @@ I’m Xhes—a backend developer passionate about data science and artificial in
 
 My coding skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,go,html,css,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,go,pytorch,tensorflow,html,css,postgres)](https://skillicons.dev)
 
 Connect with me:
 
