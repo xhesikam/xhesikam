@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Xhes—a backend developer passionate about data science and artificial intelligence.
+I’m Xhes, a backend developer passionate about data science and artificial intelligence.
 
 My coding skills: 
 
